@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="FileTypeManager" version="11">
+    <extensionMap>
+      <mapping ext="phpt" type="PHP" />
+    </extensionMap>
+  </component>
+</application>

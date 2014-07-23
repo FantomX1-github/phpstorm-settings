@@ -1,0 +1,2 @@
+com.intellij
+com.jantvrdik.intellij.latte
